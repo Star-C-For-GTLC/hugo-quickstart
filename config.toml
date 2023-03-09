@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = 'http://admin-snos.xyz'
+languageCode = 'cn-zh'
+title = '星核科技'
+theme = '星核开发组'
