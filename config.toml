@@ -1,4 +1,4 @@
 baseURL = 'http://admin-snos.xyz'
-languageCode = 'cn-zh'
+languageCode = 'en-us'
 title = '星核科技'
 theme = '星核开发组'
